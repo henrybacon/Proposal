@@ -1,0 +1,21 @@
+Summary: 
+For my final project I am going to make a wooden planter box for succulents or other plants. This wooden box will include LEDs that change color depending on how much water is required by the plants to reach optimum health in their growth. This provides a dynamic way to monitor your plants health from across the room or in a passing by scenario or before you go to bed. I would like to contain the whole project in an aesthetic presentation. Using CNC routing of international hardwood, oiled to look like a professional finished piece of work.  Additionally the planter would text a predetermined number and let the user know it is time to water their plants. 
+
+Component Parts:
+	-Soil Temperature/Moisture Sensor - SHT10 (buy)
+	-Arduino Board of some kinda Maybe Flora
+	-Wires of assorted length
+	-Perhaps some sort of WiFi or Bluetooth additional chip for the Text Alert portion of the design.
+
+Challenges: 
+	-Properly Calibrating the soil sensor to correspond correctly to the LEDS
+	-finding a reliable server to send text messages to the phone when its time to water the plants
+
+
+Project Timeline: 
+
+Week1: General Research: Form, components research in depth, possible circuit diagrams. 
+week 2: begging testing the prototypes of soil sensors and LED hook ups. 
+week 3. Continued coding and prototyping. finishing rough electronics components
+week 4 CNC wood and figure out to put electronics in
+week 5: Assemble all completely 
